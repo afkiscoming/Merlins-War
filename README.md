@@ -1,2 +1,2 @@
 # Merlins-War
-Card-Combat-Game with AI (Unity)
+Card Combat Game with AI (Unity)
